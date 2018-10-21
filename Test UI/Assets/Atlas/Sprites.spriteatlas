@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b1d7f7e0cdc286642a6eff0254924e66, type: 3}
+    - {fileID: 102900000, guid: 01ff682491f0ee141a4c58c2813c0015, type: 3}
+    - {fileID: 102900000, guid: 4d3ebf2f3f5ac324a967f1ee3342a8a6, type: 3}
+    - {fileID: 102900000, guid: daf51da0937f13c488f4220c931361cd, type: 3}
+    - {fileID: 21300000, guid: cc6e60ce2c51bcb449b3f1d0af14a267, type: 3}
+    - {fileID: 21300000, guid: abc0e1a6158fd2d4aa972fe2ac125124, type: 3}
+    - {fileID: 21300000, guid: bcb60eafa6cdeb34fa17a2e0610d0ab3, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e471b9405c2841b4ab7aac43bcc35643, type: 3}
+  - {fileID: 21300000, guid: a182ebd021556c7498db10c720f2612e, type: 3}
+  - {fileID: 21300000, guid: bbd5ba316164ab4489d189e15f1fd565, type: 3}
+  - {fileID: 21300000, guid: bcbc2641e32923b42acdc5e326091241, type: 3}
+  - {fileID: 21300000, guid: a3cd447178af7804f88a661768cc3aae, type: 3}
+  - {fileID: 21300000, guid: f2e14fd14aa853c4abcbeaf4a7428414, type: 3}
+  - {fileID: 21300000, guid: ab985ba28d49e324dad2c99317419c41, type: 3}
+  - {fileID: 21300000, guid: 17c640f2aea37334f861464fd04ea818, type: 3}
+  - {fileID: 21300000, guid: f31370f2c91976d41a053187ad57b813, type: 3}
+  - {fileID: 21300000, guid: ddfa7984f744b254ab8312c56b8a74d9, type: 3}
+  - {fileID: 21300000, guid: 99a2e5c412c34c34c90f90cc74782cdd, type: 3}
+  - {fileID: 21300000, guid: cd1aadd41798ab04495b8fdad229b25c, type: 3}
+  - {fileID: 21300000, guid: a296c615809839249b1f145af47509fe, type: 3}
+  - {fileID: 21300000, guid: 9b3b0925b4f55284289b6892eba8a696, type: 3}
+  - {fileID: 21300000, guid: 7b0a50a5f3fcdda44977b31d69260660, type: 3}
+  - {fileID: 21300000, guid: 1aeed4c5f47b8624c97b18556350b12d, type: 3}
+  - {fileID: 21300000, guid: 124eab468e31fff4e914068a20edca56, type: 3}
+  - {fileID: 21300000, guid: 7f13ac96cc0697a44a38804d22f10b97, type: 3}
+  - {fileID: 21300000, guid: abc0e1a6158fd2d4aa972fe2ac125124, type: 3}
+  - {fileID: 21300000, guid: fdb47d2790553fc4181f4ddfaf82fc60, type: 3}
+  - {fileID: 21300000, guid: 929b93c79f16d6342b842dcba4e474f2, type: 3}
+  - {fileID: 21300000, guid: 9c85cc288fd239b46ba0583fa57af0bd, type: 3}
+  - {fileID: 21300000, guid: 1980d6d8d9da7364d9abf220ab1a22c3, type: 3}
+  - {fileID: 21300000, guid: 2f843029ad7ccbe4eb32fb1da2f6d261, type: 3}
+  - {fileID: 21300000, guid: 92ecd83bcc7132646bf7dde045c8f00f, type: 3}
+  - {fileID: 21300000, guid: cc7c327b4215c754b9fee61370bbfc95, type: 3}
+  - {fileID: 21300000, guid: 5080a37ba57d23a42a9797905e602997, type: 3}
+  - {fileID: 21300000, guid: 68d14f9b10004f2439a7e405b9d463ec, type: 3}
+  - {fileID: 21300000, guid: 163816fb439402943b720808485c8cc3, type: 3}
+  - {fileID: 21300000, guid: bafdf2fcb895cfe44b752a6fa1f15bea, type: 3}
+  - {fileID: 21300000, guid: 5cab1f3d32e199a4a92669ef074fc127, type: 3}
+  - {fileID: 21300000, guid: 2903c3cd638e3ee4a9d11bc40256c87a, type: 3}
+  - {fileID: 21300000, guid: c902d32e9dd21164188c50db42780518, type: 3}
+  - {fileID: 21300000, guid: 18ff6d8e905a7404b9c9bff07b3fa70a, type: 3}
+  - {fileID: 21300000, guid: cc6e60ce2c51bcb449b3f1d0af14a267, type: 3}
+  - {fileID: 21300000, guid: 60d4a1de7303b554e87daf4e6ec5240a, type: 3}
+  - {fileID: 21300000, guid: aeb1a5ee97754d542913cd3dcc6b45b2, type: 3}
+  - {fileID: 21300000, guid: 22a3279fa1ac6b643a9a24a865c5aacc, type: 3}
+  - {fileID: 21300000, guid: 9fe55e9fd115c124ba926bbb3c20842e, type: 3}
+  - {fileID: 21300000, guid: bcb60eafa6cdeb34fa17a2e0610d0ab3, type: 3}
+  - {fileID: 21300000, guid: f92aeacf6c2058a4b8b6634b8dd7e702, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Shape 10
+  - Best Deal
+  - Shape 11 copy 3
+  - Group 2232
+  - 25
+  - Bonus100
+  - $9
+  - Rounded Rectangle 19 copy 3
+  - Group 2241 copy 4
+  - Shape 6 copy 18
+  - 50
+  - Bonus250
+  - 10
+  - Bonus100 (2)
+  - $4
+  - $3
+  - $99
+  - Bonus2501
+  - Buy coins
+  - $2
+  - $19
+  - Bonus450
+  - Group 2261
+  - Group 2272
+  - 450
+  - 650
+  - 1000
+  - Shape 10 copy 4
+  - Group 22311 copy
+  - coins_01
+  - Rounded Rectangle 2 copy 6
+  - Most Popular
+  - 230
+  - 100
+  - btn_close
+  - Shape 6 copy 23
+  - Group 2252
+  - $49
+  - 1500
+  - window
+  - $70
+  m_Tag: Sprites
+  m_IsVariant: 0

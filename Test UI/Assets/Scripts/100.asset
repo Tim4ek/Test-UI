@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5adb9325d1122cb4b8892e375f56b1e5, type: 3}
+  m_Name: 100
+  m_EditorClassIdentifier: 
+  VirtualCoins: {fileID: 21300000, guid: 18ff6d8e905a7404b9c9bff07b3fa70a, type: 3}
+  Money: {fileID: 21300000, guid: f31370f2c91976d41a053187ad57b813, type: 3}
+  Bonus: {fileID: 21300000, guid: 7f13ac96cc0697a44a38804d22f10b97, type: 3}
+  Coins: {fileID: 21300000, guid: ab985ba28d49e324dad2c99317419c41, type: 3}
+  PopularPacks: 1
